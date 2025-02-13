@@ -14,4 +14,4 @@ Time Complexity:
 
 Both get and put operations are 
 𝑂(1)
-O(1) due to the combination of the HashMap and the doubly linked list.
+O(1) due to combining the HashMap and the doubly linked list.
